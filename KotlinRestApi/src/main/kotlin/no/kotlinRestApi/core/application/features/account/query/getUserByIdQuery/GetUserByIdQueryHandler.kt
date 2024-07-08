@@ -1,6 +1,6 @@
 package no.kotlinRestApi.core.application.features.account.query.getUserByIdQuery
 
-import core.application.viewModels.UserVm
+import no.kotlinRestApi.core.application.viewModels.UserVm
 import no.kotlinRestApi.core.application.common.Response
 import no.kotlinRestApi.core.application.common.SendResponse
 import org.springframework.http.HttpStatus
